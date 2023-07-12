@@ -4,7 +4,7 @@ This repository contains code and assets to create a typing text animation effec
 
 ## Demo
 
-To see a live demo of the typing text animation, visit [this link]((https://codepen.io/jaswoo73/pen/eYQyGJK)) and experience the effect in action.
+To see a live demo of the typing text animation, visit [this link](https://codepen.io/jaswoo73/pen/eYQyGJK) and experience the effect in action.
 
 ## Customization
 

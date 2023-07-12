@@ -14,5 +14,5 @@ To customize the typing text animation, you can modify the CSS variables in the 
 <br>&nbsp;&nbsp;   --bg-color: hsl(60 57% 94%);        /* Background color of the animation */
 <br>&nbsp;&nbsp;   --typewriterSpeed: 3.5s;            /* Speed of the typewriter effect */
 <br>&nbsp;&nbsp;    --typewriterCharacters: 24;         /* Number of characters in the typewriter effect */  <br>
-}
+} <br>
 Feel free to adjust the values of these variables to achieve the desired visual and timing effects.

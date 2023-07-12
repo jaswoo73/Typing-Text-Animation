@@ -11,7 +11,7 @@ To see a live demo of the typing text animation, visit [this link](https://codep
 To customize the typing text animation, you can modify the CSS variables in the :root selector of the CSS file (typing-text-animation.css). The following variables are available for customization:
 <br>
 :root {
-<br>    --bg-color: hsl(60 57% 94%);        /* Background color of the animation */
+<br>>>   --bg-color: hsl(60 57% 94%);        /* Background color of the animation */
 <br>    --typewriterSpeed: 3.5s;            /* Speed of the typewriter effect */
 <br>    --typewriterCharacters: 24;         /* Number of characters in the typewriter effect */  <br>
 }
